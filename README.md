@@ -84,7 +84,7 @@ Here we have _abstracted_ 6 activities into 1 activity:
 `exerciseByronThePoodle`.
 
 > **ASIDE**: Abstractions themselves can be lumped together _as if_ they were
-> single things.  The abstraction `dailyDogCareForByron` probably includes
+> single things.  The abstraction `dailyDogCareForByronThePoodle` probably includes
 > `feedByronThePoodle`, `giveWaterToByronThePoodle` etc.
 
 ## Explain How To _Call_ a Function
